@@ -10,6 +10,7 @@
 
 /**
  * @defgroup Visitor Visitor
+ * JSON Visitor
  * @{
  */
 

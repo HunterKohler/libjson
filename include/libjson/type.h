@@ -8,6 +8,7 @@
 
 /**
  * @defgroup Type Type
+ * JSON Type
  * @{
  */
 

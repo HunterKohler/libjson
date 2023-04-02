@@ -12,6 +12,7 @@
 
 /**
  * @defgroup Entry Entry
+ * JSON Object Entry.
  * @{
  */
 

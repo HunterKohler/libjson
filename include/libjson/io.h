@@ -14,6 +14,7 @@
 
 /**
  * @defgroup IO Input/Output
+ * Input/output operations.
  * @{
  */
 

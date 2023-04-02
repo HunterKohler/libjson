@@ -11,6 +11,7 @@
 
 /**
  * @defgroup Memory Memory
+ * Memory management
  * @{
  */
 

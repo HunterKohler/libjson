@@ -12,9 +12,16 @@
 
 /**
  * @defgroup Value Value
+ * JSON Value
  * @{
  */
 
+/**
+ * Represents a JSON value.
+ *
+ * This is a variant type of all JSON types. It tracks the current type,
+ * allocates and manages the current value.
+ */
 struct json_value {
     /** @private */
     enum json_type _type;

@@ -11,6 +11,7 @@
 
 /**
  * @defgroup Array Array
+ * JSON Array
  * @{
  */
 

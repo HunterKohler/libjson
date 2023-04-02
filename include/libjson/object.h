@@ -11,9 +11,13 @@
 
 /**
  * @defgroup Object Object
+ * JSON Object
  * @{
  */
 
+/**
+ * Represents a JSON object.
+ */
 struct json_object {
     /** @private */
     json_size _size;

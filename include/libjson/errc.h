@@ -8,6 +8,7 @@
 
 /**
  * @defgroup Error Error
+ * Error handling.
  * @{
  */
 
